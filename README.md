@@ -14,7 +14,7 @@ of MS4 regulated areas in the Casco Bay region, in Maine.
 Curiously, areas regulated under the U.S. Clean Water Act's "Municipal 
 Separate Storm Sewer System" program (known as the "MS4" program) are not 
 based on municipal boundaries or even on local land use, but on whether the 
-areas are designated by the U.S. Cesus as part of an "urbanized area". These
+areas are designated by the U.S. Census as part of an "urbanized area". These
 maps show how those designated areas have been interpreted by Maine DEP 
 to identify areas in the MS4 program.
 
@@ -52,7 +52,7 @@ graphical layouts.
 All data included here are derived from public data released by Maine's Department
 of Environmental Protection:
 
-GIS data delineating current MS4 areas is availalbe from Maine DEP
+GIS data delineating current MS4 areas is available from Maine DEP
 [website](https://www.maine.gov/dep/gis/datamaps/). 
 
 The specific data shown here is titled "Municipal Separated Storm Sewer Systems 
